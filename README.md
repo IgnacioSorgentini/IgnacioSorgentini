@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgnacioSorgentini.
 - 📖 I’m currently studying information systems at UADE, in Buenos Aires, Argentina.
-- 🧠 I’m interested in many areas, like Web Development, Business Intelligence, and QA.
-- 👀 I’m looking for an intership, preferably in a technology company.
+- 🧠 I’m interested in Software Develpment.
+- 👀 I’m always looking for new oportunities!
 - 
 - You can reach me by the following ways:
 - 📫 Linkedin: www.linkedin.com/in/ignaciosorgentini
