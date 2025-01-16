@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IgnacioSorgentini.
-- 📖 I’m currently studying information systems at UADE, in Buenos Aires, Argentina.
+- 📖 I have a degree in information systems.
 - 🧠 I’m interested in Software Develpment.
 - 👀 I’m always looking for new oportunities!
 - 
